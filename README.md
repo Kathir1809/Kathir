@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kathir</h1>
-<h3 align="center">Master of Science - Cybersecurity - Expected 2026</h3>
+<h2 align="center">Master of Science - Cybersecurity - Expected 2026</h2>
+<h3 align="center">University at Buffalo</h3>
 
 - 🌱 If it’s smart, it’s vulnerable.**
 
