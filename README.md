@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kathir</h1>
-<h3 align="center">A passionate developer and Cloud Engineer from India</h3>
+<h3 align="center">Master of Science - Cybersecurity - Expected 2026</h3>
 
-- 🌱 I’m currently learning **React, Next js**
+- 🌱 If it’s smart, it’s vulnerable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
